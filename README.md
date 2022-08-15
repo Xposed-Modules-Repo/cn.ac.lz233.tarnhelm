@@ -1,5 +1,5 @@
 <p align="center">
-<img class="icon1" src="./icon-color.png" alt="icon-color" width="15%"/>
+<img class="icon1" src="https://github.com/Xposed-Modules-Repo/cn.ac.lz233.tarnhelm/raw/main/icon-color.png" alt="icon-color" width="15%"/>
 </p>
 
 <h1 align="center">Tarnhelm</h1>
