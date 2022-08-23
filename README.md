@@ -4,8 +4,10 @@
 
 <h1 align="center">Tarnhelm</h1>
 
-The magic to clean sharing links up.
-
-清理分享链接的魔法。
+<p align="center">The magic to clean sharing links up.</p>
+<p align="center">きれいなリンクを、あなたに。</p>
+<p align="center">清理分享链接的魔法。</p>
 
 更多信息，参见：[tarnhelm.project.ac.cn](https://tarnhelm.project.ac.cn/)
+
+也可以从 Play Store 获取：https://play.google.com/store/apps/details?id=cn.ac.lz233.tarnhelm
